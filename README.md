@@ -1,1 +1,1 @@
-# front-end-plugin
+# front-end-plugin-helpers
